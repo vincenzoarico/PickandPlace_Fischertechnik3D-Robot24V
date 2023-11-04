@@ -16,7 +16,10 @@ Main objects in the scene:
 - 1 vision sensor
 - a table with the robot on top
 
-## Contributors
+### About
+This repository contains the file .ttt and documentation for a CoppeliaSim scene created by two university students (Vincenzo Aricò and Enrico Catalfamo) at UNIME (University of Messina). The project is part of the Industrial automation and robotics (IAAR) course, specifically, the second project for Module B.
+
+### Contributors
 
 - [Vincenzo Aricò](https://github.com/vincenzoarico)
 - [Enrico Catalfamo](https://github.com/enrikata)
