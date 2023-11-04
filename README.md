@@ -1,4 +1,4 @@
-# PickandPlace_Fischertechnik3D-Robot24V
+# Pick and place Fischertechnik 3D-Robot 24V
 
 ## Prerequisites
 CoppeliaSim Edu version 4.1.0
