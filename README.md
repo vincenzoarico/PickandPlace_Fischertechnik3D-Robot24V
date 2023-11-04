@@ -18,4 +18,4 @@ Main objects in the scene:
 ## Contributors
 
 - [Vincenzo Aricò](https://github.com/vincenzoarico)
-- [Enrico Catalfamo]([https://github.com/collaboratorsusername](https://github.com/enrikata)https://github.com/enrikata)
+- [Enrico Catalfamo](https://github.com/enrikata)
